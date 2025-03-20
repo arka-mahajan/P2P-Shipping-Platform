@@ -43,7 +43,8 @@ The vision of the P2P Shipping Platform is to create an open, efficient, and dec
 0xD3212AE0c58569B1f09a14a9844745721a47bC74
 ```
 ## Proof Image
-![image](https://github.com/user-attachments/assets/ae8c928b-0736-44cf-8c74-af8884e06fc7)
+![image](https://github.com/user-attachments/assets/8a697538-4830-4f29-9097-02bc2f1ffc81)
+
 
 
 For more information on how the platform works or to get started, refer to the code and deploy your own instance of the dApp.
